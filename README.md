@@ -1,12 +1,12 @@
-# Match an Email - RegEx Tutorial
+# Email RegEx Tutorial
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-M17 - This repo contains a link to the GitHub Gist for a [Match an Email - RegEx Tutorial](https://gist.github.com/kevindimayuga/1c7c485b39c53794f1ce712078d3bee2)
+M17 - This repo contains a link to the GitHub Gist for a [Email RegEx Tutorial](https://gist.github.com/kevindimayuga/1c7c485b39c53794f1ce712078d3bee2)
 
 ## Description
 
-The link will lead to a GitHub Gist that will contain a tutorial on the Match an Email RegEx, it's definition and how it used in code.
+The link will lead to a GitHub Gist that will contain a tutorial on the Email RegEx, it's definition and how it used in code.
 
 ```
 /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
@@ -15,7 +15,7 @@ The link will lead to a GitHub Gist that will contain a tutorial on the Match an
 ## Accessing the Repo or Webpage:
 
 - GitHub Repo URL: https://github.com/kevindimayuga/regex-tutorial-kd
-- GitHub Gist URL: [Match an Email - RegEx Tutorial](https://gist.github.com/kevindimayuga/1c7c485b39c53794f1ce712078d3bee2)
+- GitHub Gist URL: [Email RegEx Tutorial](https://gist.github.com/kevindimayuga/1c7c485b39c53794f1ce712078d3bee2)
 - GitHub Pages WebPage Deployment URL: N/A
 - Heroku Webpage Deployed URL: N/A
 
@@ -46,7 +46,7 @@ The following steps were taken to complete the project:
 
 ## Usage
 
-- Please use the following link to open the tutorial: [Match an Email - RegEx Tutorial](https://gist.github.com/kevindimayuga/1c7c485b39c53794f1ce712078d3bee2)
+- Please use the following link to open the tutorial: [Email RegEx Tutorial](https://gist.github.com/kevindimayuga/1c7c485b39c53794f1ce712078d3bee2)
 - Review the tutorial in order to learn about how a specific regular expression, or regex, functions by breaking down each part of the expression and describing what it does.
 - Use the RegEx in your own applications or projects.
 
