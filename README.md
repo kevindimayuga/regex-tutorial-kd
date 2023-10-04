@@ -68,12 +68,9 @@ I used the following resources to help guide me to complete the portfolio projec
 - [MDN](https://developer.mozilla.org/en-US/)
 - [W3Schools](https://www.w3schools.com/)
 - [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
-- [Node.js Introduction](https://www.w3schools.com/nodejs/nodejs_intro.asp)
-- [Inquirer.js](https://www.npmjs.com/package/inquirer/v/8.2.4)
-- [Jest](https://www.npmjs.com/package/jest)
-- [MySQL Tutorial](https://www.w3schools.com/MySQL/default.asp)
 - [How to take a full page screenshot with a hidden Chrome shortcut](https://zapier.com/blog/full-page-screenshots-in-chrome/)
 - [Markdown Badges](https://ileriayo.github.io/markdown-badges/)
+- [Regexr - Online tool to learn, build and test Regular Expressions](https://regexr.com/)
 
 Starter code was provided by:
 
