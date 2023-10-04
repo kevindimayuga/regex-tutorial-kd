@@ -1,9 +1,8 @@
 # RegEx Tutorial
 
-This repo is for module seventeen's challenge assignment.
-
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
+M17 - This repo contains a RegEx Tutorial.
 
 ## Description
 
